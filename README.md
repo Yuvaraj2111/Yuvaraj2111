@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yuvaraj2111
-- 👀 I’m currently working on react project
+- 👀 Software Engineer @ Icumedical
 - 📫 Ask me about react,react native,django,php.
 - 🌱 I’m currently learning MERN stack development
 - 💞️ I’m looking to collaborate on ...
